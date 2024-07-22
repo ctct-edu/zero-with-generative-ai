@@ -34,7 +34,8 @@
 ■画像生成サービス
 
 - [Firefly | Adobe](https://firefly.adobe.com/)
-- [DALL-E](https://openai.com/index/dall-e/)
+- [DALL-E | OpenAI](https://openai.com/index/dall-e/)
+- [Stable Assistant | Stability AI](https://ja.stability.ai/stable-assistant)
 
 ■音楽生成サービス
 
