@@ -18,7 +18,7 @@
    >
    > 　  Mozilla Fire Foxでは「プライベート」ウィンドウ
 
-   ![Learn01](C:\Users\otokita\Documents\zero-with-generative-ai\LabManual\media\Learn01.BMP)
+   ![Learn01](.\media\Learn01.BMP)
 
    
 
@@ -33,19 +33,19 @@
    | ユーザーID | `aiuserXXX@ctctedu.onmicrosoft.com` |
    | パスワード | 講師から配布されたパスワード        |
 
-   ![Learn02](C:\Users\otokita\Documents\zero-with-generative-ai\LabManual\media\Learn02.BMP)
+   ![Learn02](.\media\Learn02.BMP)
 
    
 
 3. [要求されているアクセス許可] ページでは、 [承諾] をクリックします 。
 
-   ![Learn03](C:\Users\otokita\Documents\zero-with-generative-ai\LabManual\media\Learn03.BMP)
+   ![Learn03](.\media\Learn03.BMP)
 
    
 
 4. [Start chatting] ページが表示されればサインイン完了となります。
 
-   ![Learn04](C:\Users\otokita\Documents\zero-with-generative-ai\LabManual\media\Learn04.BMP)
+   ![Learn04](.\media\Learn04.BMP)
 
    
 
