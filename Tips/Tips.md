@@ -29,10 +29,12 @@
 - [ChatGPT | OpenAI](https://openai.com/chatgpt/)
 - [Gemini | Google](https://gemini.google.com/)
 - [Copilot | Microsoft](https://copilot.microsoft.com/)
+- [Claude | Anthropic](https://www.anthropic.com/claude)
 
 ■画像生成サービス
 
 - [Firefly | Adobe](https://firefly.adobe.com/)
+- [DALL-E](https://openai.com/index/dall-e/)
 
 ■音楽生成サービス
 
@@ -49,6 +51,7 @@
 
 - [プロンプト エンジニアリングの手法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 - [画像プロンプト エンジニアリングの手法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/gpt-4-v-prompt-engineering)
+- [プロンプトエンジニアリングとは何ですか? | AWS](https://aws.amazon.com/jp/what-is/prompt-engineering/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
 - [Prompt Engineering | OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 
