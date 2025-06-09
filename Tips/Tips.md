@@ -51,7 +51,7 @@
 
 ### 第2章 - プロンプトエンジニアリングを理解しよう
 
-- [プロンプト エンジニアリングの手法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+- [プロンプト エンジニアリングの手法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/prompt-engineering?tabs=chat)
 - [画像プロンプト エンジニアリングの手法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/gpt-4-v-prompt-engineering)
 - [プロンプトエンジニアリングとは何ですか? | AWS](https://aws.amazon.com/jp/what-is/prompt-engineering/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
