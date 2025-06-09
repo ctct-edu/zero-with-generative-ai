@@ -81,4 +81,4 @@
 - [お客様が Microsoft AI を活用している方法を確認する | Microsoft](https://www.microsoft.com/ja-jp/ai/ai-customer-stories)
 - [日本におけるMicrosoft AI事例](https://www.microsoft.com/ja-jp/customers/search/?filters=business-need%3Aartificial-intelligence%2Clanguage%3Ajapanese&sortBy=PublishedDate+Desc)
 - [生成 AI のビジネス価値を組織で実現 | AWS](https://aws.amazon.com/jp/ai/generative-ai/use-cases/)
-
+- [業界・目的別の生成 AI ユースケース | AWS](https://aws.amazon.com/jp/blogs/news/tag/industry-and-purpose-specific-generative-ai-use-cases/)
