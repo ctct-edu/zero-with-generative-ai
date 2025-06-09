@@ -23,6 +23,7 @@
 - [Azure Machine Learning におけるディープ ラーニングと機械学習の違い | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/machine-learning/concept-deep-learning-vs-machine-learning?view=azureml-api-2)
 - [教師あり学習と教師なし学習はどのように異なりますか? | AWS](https://aws.amazon.com/jp/compare/the-difference-between-machine-learning-supervised-and-unsupervised/)
 - [生成系 AI とは何ですか? | AWS](https://aws.amazon.com/jp/what-is/generative-ai/)
+- [マルチモーダルAI](https://www.aist.go.jp/aist_j/magazine/20231129.html)
 
 ■自然言語生成AIサービス
 
@@ -56,6 +57,14 @@
 - [プロンプトエンジニアリングとは何ですか? | AWS](https://aws.amazon.com/jp/what-is/prompt-engineering/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
 - [Prompt Engineering | OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
+- [ゴールシークプロンプト](https://gen-ai-media.guga.or.jp/glossary/goal-seeking-prompts/)
+
+※プロンプトサンプル
+
+- [Copilotプロンプト集 | Microsoft](https://www.microsoft.com/ja-jp/enable/guides/prompt)
+- [Copilot for Microsoft 365 プロンプト  | Microsoft](https://www.microsoft.com/ja-jp/biz/smb/copilot-prompts)
+- [生成 AI のプロンプト サンプル | Google](https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery?hl=ja)
+- [ChatGPTなどで使える文例集 | promptia](https://prompt.quel.jp/)
 
 
 
