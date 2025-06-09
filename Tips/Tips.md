@@ -35,7 +35,7 @@
 
 - [Firefly | Adobe](https://firefly.adobe.com/)
 - [DALL-E | OpenAI](https://openai.com/index/dall-e/)
-- [Stable Assistant | Stability AI](https://ja.stability.ai/stable-assistant)
+- [Stability AI](https://ja.stability.ai/)
 - [Midjourney](https://www.midjourney.com/showcase)
 
 ■音楽生成サービス
