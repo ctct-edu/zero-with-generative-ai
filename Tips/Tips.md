@@ -63,6 +63,7 @@
 
 - [AI事業者ガイドライン検討会 | 経済産業省](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/index.html)
 - [責任ある信頼された AI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
+- [責任ある AI を理論から実践に変える](https://aws.amazon.com/jp/ai/responsible-ai/)
 
 
 
