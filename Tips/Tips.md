@@ -36,6 +36,7 @@
 
 - [Firefly | Adobe](https://firefly.adobe.com/)
 - [DALL-E | OpenAI](https://openai.com/index/dall-e/)
+- [Nano Banana](https://gemini.google/jp/overview/image-generation/?hl=ja)
 - [Stability AI](https://ja.stability.ai/)
 - [Midjourney](https://www.midjourney.com/showcase)
 
@@ -47,6 +48,8 @@
 ■映像生成サービス
 
 - [Sora | OpenAI](https://openai.com/index/sora/)
+- [Veo | Google](https://gemini.google/jp/overview/video-generation/?hl=ja)
+- [Ray | Luma AI](https://lumalabs.ai/)
 
 
 
@@ -73,6 +76,8 @@
 - [AI事業者ガイドライン検討会 | 経済産業省](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/index.html)
 - [責任ある信頼された AI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 - [責任ある AI を理論から実践に変える | AWS](https://aws.amazon.com/jp/ai/responsible-ai/)
+- [マイクロソフト、お客様向けの Copilot Copyright Commitment を発表](https://news.microsoft.com/ja-jp/2023/09/12/230912-copilot-copyright-commitment-ai-legal-concerns/)
+- [利用規約 | OpenAI](https://openai.com/ja-JP/policies/row-terms-of-use/)
 
 
 
@@ -82,3 +87,10 @@
 - [日本におけるMicrosoft AI事例](https://www.microsoft.com/ja-jp/customers/search/?filters=business-need%3Aartificial-intelligence%2Clanguage%3Ajapanese&sortBy=PublishedDate+Desc)
 - [生成 AI のビジネス価値を組織で実現 | AWS](https://aws.amazon.com/jp/ai/generative-ai/use-cases/)
 - [業界・目的別の生成 AI ユースケース | AWS](https://aws.amazon.com/jp/blogs/news/tag/industry-and-purpose-specific-generative-ai-use-cases/)
+- [OpenAIの活用事例 | OpenAI](https://openai.com/ja-JP/stories/)
+
+
+
+### 参考：AIに関するニュース他
+
+- [九段理江に95%AIで小説書いてもらってみた。小説『影の雨』、プロンプト全文公開](https://kohkoku.jp/case01/prompt/)
