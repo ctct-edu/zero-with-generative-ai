@@ -75,6 +75,7 @@
 
 - [AI事業者ガイドライン検討会 | 経済産業省](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/index.html)
 - [人工知能関連技術の研究開発及び活用の推進に関する法律（ＡＩ法）](https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html)
+- [AIと著作権について](https://www.bunka.go.jp/seisaku/chosakuken/aiandcopyright.html)
 - [責任ある信頼された AI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 - [責任ある AI を理論から実践に変える | AWS](https://aws.amazon.com/jp/ai/responsible-ai/)
 - [マイクロソフト、お客様向けの Copilot Copyright Commitment を発表](https://news.microsoft.com/ja-jp/2023/09/12/230912-copilot-copyright-commitment-ai-legal-concerns/)
