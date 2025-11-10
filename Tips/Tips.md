@@ -94,3 +94,6 @@
 ### 参考：AIに関するニュース他
 
 - [九段理江に95%AIで小説書いてもらってみた。小説『影の雨』、プロンプト全文公開](https://kohkoku.jp/case01/prompt/)
+- [生成AIを活用した企業CMの公開について（金融機関初）](https://www.kaiho-bank.co.jp/information/archive/2023/ai_cm/)
+- [OpenAI社に「Sora 2」の運用に関する要望書を提出](https://coda-cj.jp/news/2577/)
+
