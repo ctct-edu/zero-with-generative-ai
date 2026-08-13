@@ -4,4 +4,4 @@
 
 ## はじめに
 
-本マニュアルはCTCテクノロジー主催 「[ゼロから始める生成AI](https://www.school.ctc-g.co.jp/course/LT101.html)」 のラボマニュアルになります。
+本マニュアルはCTCテクノロジー主催 「[ゼロから始める生成AI](https://www.school.ctc-g.co.jp/course/LT111.html)」 のラボマニュアルになります。

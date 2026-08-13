@@ -14,7 +14,7 @@
 
 ■コース紹介
 
-- [ゼロから始める生成AI | CTC教育サービス](https://www.school.ctc-g.co.jp/course/LT101.html)
+- [ゼロから始める生成AI | CTC教育サービス](https://www.school.ctc-g.co.jp/course/LT111.html)
 
 ### 第1章 - AIの歴史と種類
 
