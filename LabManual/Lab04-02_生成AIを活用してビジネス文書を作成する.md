@@ -17,7 +17,7 @@
    >
    > 　  　  Mozilla Fire Foxでは「プライベート」ウィンドウ
 
-   ![Learn01](C:\Users\z2245009\Documents\Github\zero-with-generative-ai\LabManual\media\Learn01.BMP)
+   ![Learn01](./media/Learn01.BMP)
 
    
 
@@ -32,13 +32,13 @@
    | ユーザーID | `aiuserXXX@ctctedu.onmicrosoft.com` |
    | パスワード | 講師から配布されたパスワード        |
 
-   ![Learn02](C:\Users\z2245009\Documents\Github\zero-with-generative-ai\LabManual\media\Learn02.BMP)
+   ![Learn02](./media/Learn02.BMP)
 
    
 
 3. [要求されているアクセス許可] ページでは、 [承諾] をクリックします 。
 
-   ![Learn03](C:\Users\z2245009\Documents\Github\zero-with-generative-ai\LabManual\media\Learn03.BMP)
+   ![Learn03](./media/Learn03.BMP)
 
    
 
